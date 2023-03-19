@@ -1,4 +1,7 @@
 baseURL = 'http://everything.delivery/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ananke"
+theme = "coyote"
+
+[outputs]
+  home = ['HTML', 'JSON']
