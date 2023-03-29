@@ -1,6 +1,6 @@
 .header {
   display: flex;
-  justify-content: space-between;
+  // justify-content: space-between;
   align-items: center;
   max-width: 1200px;
   margin-right: auto;
@@ -9,9 +9,28 @@
   padding: 0 1.6rem;
 
   &__title {
-    font-size: 2.8rem;
-    font-family: 'Eczar', serif;
+    font-size: 2rem;
+    font-family: 'Ubuntu', serif;
     margin: 1.6rem 0;
+    a {
+      color: #1e1e1e;
+      text-decoration: none;
+    }
+  }
+
+  img {
+    max-height: 6rem;
+  }
+
+}
+
+.header {
+  div:last-of-type {
+    margin-left: auto
+  }
+
+  .site__description {
+    font-size: 1.6rem;
   }
 }
 
@@ -19,7 +38,7 @@
   &__items {
     list-style: none;
 
-    > li {
+    >li {
       font-size: 1.4rem;
     }
   }

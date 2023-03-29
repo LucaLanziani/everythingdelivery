@@ -1,10 +1,6 @@
 {{ define "main" }}
 <div class="post">
   {{ partial "youtube.html" . }}
-  <!-- <div class="post__header"> -->
-  <!-- {{ $image := .Resources.GetMatch .Params.image }} -->
-  <!-- <img class="post__image" src="{{ $image.RelPermalink }}"> -->
-  <!-- </div> -->
 
   {{ with .Params.tags }}
   <div class="post__tags">

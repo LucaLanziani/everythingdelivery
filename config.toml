@@ -3,5 +3,8 @@ languageCode = 'en-us'
 title = "Everything Delivery"
 theme = "coyote"
 
+[params]
+description = "A podcast where we discuss anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
+
 [outputs]
   home = ['HTML', 'JSON']
