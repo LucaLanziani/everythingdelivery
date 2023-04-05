@@ -1,10 +1,22 @@
 baseURL = 'http://everything.delivery/'
-languageCode = 'en-us'
 title = "Everything Delivery"
-theme = "coyote"
+theme = "hugo-cards"
+copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
+languageCode = 'en-us'
+
+[author]
+  name = 'Dan & Luca'
 
 [params]
-description = "A podcast where we discuss anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
+description = "A podcast about anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
+email = "123"
+
+[params.copyright]
+  name="Everything Delivery"
+
+[params.sponsoredBy]
+  name="NearForm"
+  href="https://nearform.com"
 
 [outputs]
-  home = ['HTML', 'JSON']
+  home = ['HTML', 'RSS']
