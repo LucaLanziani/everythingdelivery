@@ -1,9 +1,11 @@
 <header>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container justify-content-start">
+    <div class="container">
       <a class="navbar-brand" href="{{ "" | absLangURL }}">
-        <img src="/logo.png" alt="Logo" width="150" height="150" class="d-inline-block">
-        <span class="navbar-brand fs-1">{{ .Site.Title }}</span>
+        <img class="d-none d-md-inline" src="/logo.png" alt="Logo" width="150" height="150">
+        <img class="d-sm-inline d-md-none" src="/logo.png" alt="Logo" width="80" height="80">
+        <span class="navbar-brand d-none d-md-inline fs-1">{{ .Site.Title }}</span>
+        <span class="navbar-brand d-sm-inline d-md-none">{{ .Site.Title }}</span>
       </a>
     </div>
   </nav>

@@ -1,4 +1,4 @@
-baseURL = 'http://everything.delivery/'
+baseURL = 'https://everything.delivery/'
 title = "Everything Delivery"
 theme = "hugo-cards"
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
@@ -9,7 +9,9 @@ languageCode = 'en-us'
 
 [params]
 description = "A podcast about anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
-email = "123"
+youtube = "https://www.youtube.com/@EverythingDelivery"
+spotify = "https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ"
+apple = "https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en"
 
 [params.copyright]
   name="Everything Delivery"

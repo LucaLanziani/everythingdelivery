@@ -2,9 +2,10 @@
     <div class="container">
         <div class="row p20">
             <div class="col-md-4 text-center">
+                <strong>Follow us:</strong>
+                {{ partial "socials.html" . }}
                 <p>
-                    <strong>Follow us:</strong>
-                    <br> <a target="_blank" href="https://www.linkedin.com/in/lucalanziani/" class="link-dark">Luca on
+                    <a target="_blank" href="https://www.linkedin.com/in/lucalanziani/" class="link-dark">Luca on
                         LinkedIn</a>
                     <br> <a target="_blank" href="https://www.linkedin.com/in/danklose/" class="link-dark">Dan on
                         Linkedin</a>
@@ -15,7 +16,7 @@
             </div>
             <div class="col-md-4 text-center mt25">
                 {{ with .Site.Params.sponsoredBy }}
-                <strong>Sponsored by:</strong> <br> <a target="_blank" href="{{.logo}}">{{.name}}</a>
+                <strong>Sponsored by:</strong> <br> <a target="_blank" href="{{.href}}">{{.name}}</a>
                 {{ end }}
             </div>
             {{ with .Site.Params.copyright }}
