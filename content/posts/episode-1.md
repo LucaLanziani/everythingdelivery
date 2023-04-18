@@ -4,7 +4,7 @@ date: 2023-04-18T18:15:28+01:00
 youtube: "nelk5xdO39Y"
 ---
 
-What Observability?
+What is Observability?
 
 <!--more-->
 
