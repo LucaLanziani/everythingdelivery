@@ -3,14 +3,14 @@
   <div class="row row-cols-1 row-cols-md-2 g-4">
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") 4 }}
     {{ range $paginator.Pages }}
-    <div class="col">
-      <div class="card">
+    <div class="col d-flex">
+      <div class="card flex-grow-1">
         <img src="https://i.ytimg.com/vi/{{.Params.youtube}}/maxresdefault.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
+        <div class="card-body d-flex flex-column flex-grow-1">
           <h5 class="card-title">{{ .Title }}</h5>
           <h6 class="card-subtitle mb-2 text-body-secondary">{{.Date.Format "January 2, 2006" }}</h6>
           <p class="card-text">{{ .Summary }}</p>
-          <a href="{{ .Permalink }}" class="stretched-link">Read more...</a>
+          <a class="mt-auto" href="{{ .Permalink }}" class="stretched-link">Read more...</a>
         </div>
       </div>
     </div>
@@ -29,15 +29,6 @@
   </div>
 
   <div>
-    <!-- {{ $scratch := newScratch }}
-    {{ $scratch.Set "current" .Paginator.PageNumber }}
-    {{ range .Paginator.Pagers }}
-    {{ if eq .PageNumber ($scratch.Get "current") }}
-    <li class="active"><span><em>{{ .PageNumber }}</em></span></li>
-    {{ else }}
-    <li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
-    {{ end }}
-    {{ end }} -->
     {{ .Paginator.PageNumber }}
   </div>
 
