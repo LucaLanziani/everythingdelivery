@@ -6,9 +6,10 @@ youtube: "ivhbINgO4Mk"
 
 Welcome to the Everything Delivery podcast.
 
+In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organisation.
+
 <!--more-->
 
-In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organisation.
 
 You can find this podcast on:
 
