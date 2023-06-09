@@ -8,11 +8,13 @@
 <meta name="twitter:title" content="{{ .Title }}{{ if .IsHome }} - {{ .Site.Params.Tagline }}{{ else }} - {{ .Site.Title }}{{ end }}" />
 <meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
 <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+<meta name="twitter:image" content="https://i.ytimg.com/vi/{{.Params.youtube}}/hqdefault.jpg">
 
 <!-- OG data -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta content="{{ .Title }}{{ if .IsHome }} - {{ .Site.Params.Tagline }}{{ else }} - {{ .Site.Title }}{{ end }}" property="og:title">
 <meta content="{{ if .Description }}{{ .Description | plainify }}{{ else }}{{if .IsPage}}{{ .Summary | plainify  }}{{ end }}{{ end }}" property="og:description">
+<meta property="og:image" content="https://i.ytimg.com/vi/{{.Params.youtube}}/hqdefault.jpg">
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
