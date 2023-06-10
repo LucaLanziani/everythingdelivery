@@ -1,7 +1,7 @@
 ---
 title: "Episode 1 - Observability"
 date: 2023-04-18T18:15:28+01:00
-youtube: "nelk5xdO39Y"
+img: "episode-1.jpg"
 ---
 
 What is Observability?

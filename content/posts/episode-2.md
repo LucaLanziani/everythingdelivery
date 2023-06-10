@@ -1,7 +1,7 @@
 ---
 title: "Episode 2 - Open Telemetry"
 date: 2023-05-24T18:00:28+02:00
-youtube: "BRglYegZ-bo"
+img: "episode-2.jpg"
 ---
 
 In the previous episode, we delved deep into the intricate and important topic of Observability.
