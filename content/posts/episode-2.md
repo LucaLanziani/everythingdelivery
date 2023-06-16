@@ -2,6 +2,7 @@
 title: "Episode 2 - Open Telemetry"
 date: 2023-05-24T18:00:28+02:00
 img: "episode-2.jpg"
+youtube: "nelk5xdO39Y"
 ---
 
 In the previous episode, we delved deep into the intricate and important topic of Observability.
@@ -10,7 +11,7 @@ Now, in this episode, we'll be shifting our focus to a specific tool that can bo
 
 <!--more-->
 
- We dissected the concept, exploring how it is key to comprehending your software's internal states based on the outputs it produces. In that exciting exploration, we analyzed how having an understanding of the inner workings of your systems can greatly enhance the overall performance and efficiency of your operations.
+We dissected the concept, exploring how it is key to comprehending your software's internal states based on the outputs it produces. In that exciting exploration, we analyzed how having an understanding of the inner workings of your systems can greatly enhance the overall performance and efficiency of your operations.
 
 OpenTelemetry is an open-source project that aims to provide a single set of APIs, libraries, agents, and instrumentation resources to capture distributed traces and metrics from your application. It simplifies the capturing of observability data, helping businesses to better understand the performance and health of their software applications.
 

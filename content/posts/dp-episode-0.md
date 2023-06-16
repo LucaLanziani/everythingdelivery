@@ -2,6 +2,7 @@
 title: "Digital Pulse - 9 Jun 2023"
 date: 2023-06-09T21:00:28+02:00
 img: "dp-episode-0.png"
+youtube: "uGF-lH1XqBc"
 ---
 
 Welcome to the first episode of Digital Pulse.
