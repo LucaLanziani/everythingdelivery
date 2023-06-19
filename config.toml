@@ -1,4 +1,4 @@
-baseURL = 'https://feature-new-theme.everythingdelivery.pages.dev/'
+baseURL = 'https://everything.delivery/'
 title = "Everything Delivery"
 theme = "beautifulhugo"
 #theme = "hugo-cards"
