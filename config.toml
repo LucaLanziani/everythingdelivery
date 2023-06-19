@@ -20,6 +20,7 @@ languageCode = 'en-us'
   useHLJS = false
   socialShare = false
   showRelatedPosts = true
+  selfHosted = true
   youtube = "https://www.youtube.com/@EverythingDelivery"
   spotify = "https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ"
   apple = "https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en"
