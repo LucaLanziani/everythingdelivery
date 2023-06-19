@@ -2,6 +2,7 @@
 title: "Episode 2 - Open Telemetry"
 date: 2023-05-24T18:00:28+02:00
 img: "episode-2.jpg"
+image: "/imgs/episode-2.jpg"
 youtube: "nelk5xdO39Y"
 ---
 

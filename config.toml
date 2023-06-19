@@ -1,6 +1,7 @@
 baseURL = 'https://everything.delivery/'
 title = "Everything Delivery"
-theme = "hugo-cards"
+theme = "beautifulhugo"
+#theme = "hugo-cards"
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
 languageCode = 'en-us'
 
@@ -8,10 +9,26 @@ languageCode = 'en-us'
   name = 'Dan & Luca'
 
 [params]
-description = "A podcast about anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
-youtube = "https://www.youtube.com/@EverythingDelivery"
-spotify = "https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ"
-apple = "https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en"
+  logo = "logo_gray.png"
+  subtitle = "A podcast about anything and everything that will help you Deliver Value to clients while maintaining a healthy and happy Organization."
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  showRelatedPosts = true
+  youtube = "https://www.youtube.com/@EverythingDelivery"
+  spotify = "https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ"
+  apple = "https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Dan & Luca"
+  youtube = "@EverythingDelivery"
+  spotify = "0hDIMNruStpK9aE9eHC7NZ"
 
 [params.copyright]
   name="Everything Delivery"
@@ -22,3 +39,8 @@ apple = "https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?
 
 [outputs]
   home = ['HTML', 'RSS']
+
+[[menu.main]]
+    name = "Digital Pulse"
+    url = "/digitalpulse"
+    weight = 1
