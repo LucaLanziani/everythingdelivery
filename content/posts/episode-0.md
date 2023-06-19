@@ -2,6 +2,8 @@
 title: "Episode 0 - Intro"
 date: 2023-04-05T08:00:28+01:00
 img: "episode-0.jpg"
+image: "/imgs/episode-0.jpg"
+youtube: ivhbINgO4Mk
 ---
 
 Welcome to the Everything Delivery podcast.

@@ -2,9 +2,11 @@
 <div class="row flex-grow-1">
   <div class="col-md-8 d-flex flex-column justify-content-start">
     <div class="row d-flex flex-column flex-grow-1">
+      {{ if .Params.youtube }}
       <div class="col-md-12">
         {{ partial "youtube.html" . }}
       </div>
+      {{ end }}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
         <header class="post-header">
