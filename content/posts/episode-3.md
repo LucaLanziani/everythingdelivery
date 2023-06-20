@@ -30,5 +30,5 @@ So sit back, relax, and prepare to be captivated by an exhilarating exploration 
 In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organization.
 
 You can find this podcast on:
-Spotify: https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ
+Spotify: https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ  
 Apple podcast: https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en
