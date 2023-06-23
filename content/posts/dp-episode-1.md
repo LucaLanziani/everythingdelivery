@@ -1,7 +1,7 @@
 ---
 title: "Digital Pulse - 23 Jun 2023"
 date: 2023-06-23T08:30:00+00:00
-image: "/imgs/LinkedingThumbnail.png"
+image: "/imgs/dp-episode-1.png"
 youtube: "DeTJvuN2HzU"
 ---
 
