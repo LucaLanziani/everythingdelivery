@@ -57,4 +57,3 @@ Youtube: https://youtube.com/@everything-delivery
 Spotify: https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ   
 Apple podcast: https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en
 
-
