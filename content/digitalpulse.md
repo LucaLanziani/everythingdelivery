@@ -6,4 +6,4 @@ subtitle: A fortnightly news cast where we highlight some of the interesting thi
 
 {{< youtube DeTJvuN2HzU >}}
 
-### You can find the show notes [here](posts/dp-episode-1) and you can find all the episodes on [Spotify](https://open.spotify.com/show/6MBbsyIpsfGnbL1lTiIFuY) or [Youtube](https://www.youtube.com/playlist?list=PLKrptVegVyy_f0rUGkiJlfl13YIcxJ_hF)
+### You can find the show notes [here](/posts/dp-episode-1) and you can find all the episodes on [Spotify](https://open.spotify.com/show/6MBbsyIpsfGnbL1lTiIFuY) or [Youtube](https://www.youtube.com/playlist?list=PLKrptVegVyy_f0rUGkiJlfl13YIcxJ_hF)
