@@ -43,7 +43,7 @@ We finish with a Dan gushing over one blogpost by Marc Andreseen and a TED video
 Join us, in the biggest edit yet, as Luca attempts to limit the damage Dan can cause with unprofessional comments and tangents.
 
 [QB on Data Mesh](https://www.mckinsey.com/capabilities/quantumblack/our-insights/demystifying-data-mesh)   
-[The Data Mesh Book](https://www.oreilly.com/library/view/data-mesh/9781492092384/) 
+[The Data Mesh Book](https://www.oreilly.com/library/view/data-mesh/9781492092384/)   
 [Has AI poisoned its own well](https://tracydurnell.com/2023/06/18/ai-has-poisoned-its-own-well/)   
 [The Curse of Recursion](https://arxiv.org/pdf/2305.17493.pdf)  
 [The Rists of Generative AI](https://hbr.org/2023/06/managing-the-risks-of-generative-ai)   
