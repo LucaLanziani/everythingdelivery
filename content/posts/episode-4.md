@@ -2,7 +2,7 @@
 title: "Episode 4 - Large Language Models"
 date: 2023-06-30T09:00:00+00:00
 image: "/imgs/episode-4.png"
-youtube: "???"
+youtube: "zCOQMwQ6u5g"
 ---
 
 Welcome to episode 4: LLMS
