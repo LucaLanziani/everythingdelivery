@@ -2,7 +2,7 @@
 title: "Episode 4 - Large Language Models"
 date: 2023-06-30T09:00:00+00:00
 image: "/imgs/episode-4.png"
-youtube: "zCOQMwQ6u5g"
+youtube: "2pN_2_wBKk"
 ---
 
 Welcome to episode 4: LLMS
@@ -23,11 +23,16 @@ We finish out by discussing how you can use these kinds of tools, first suggesti
 The AI train is only getting faster! join us on a high level, mostly positive conversation about LLMs, machine learning and how we probably aren't going to be working for our AI overlords before 2024.
 
 Additional Sources
+[Sal Khan - How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo)  
 [Falcon LLM](https://falconllm.tii.ae/)  
 [Artificial Intelligence: A Modern Approach](https://www.pearson.com/en-gb/subject-catalog/p/artificial-intelligence-a-modern-approach-global-edition/P200000005340/9781292409399)  
 [Dan's Thoughts on AI eating Senior Engineers](https://www.nearform.com/blog/will-ai-eat-the-senior-engineer/)  
 [Simon Willison on Benchmarking with GPT](https://simonwillison.net/2023/Apr/12/code-interpreter/)  
 
+Understanding LLMS
+
+[Jay Alammar](https://jalammar.github.io/illustrated-transformer/)  
+[Visual Intro to Neural Networks](https://mlu-explain.github.io/neural-networks/)  
 
 # This is the Everything Delivery podcast
 
