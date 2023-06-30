@@ -23,10 +23,10 @@ We finish out by discussing how you can use these kinds of tools, first suggesti
 The AI train is only getting faster! join us on a high level, mostly positive conversation about LLMs, machine learning and how we probably aren't going to be working for our AI overlords before 2024.
 
 Additional Sources
-[Falcon LLM](https://falconllm.tii.ae/)
-[Artificial Intelligence: A Modern Approach](https://www.pearson.com/en-gb/subject-catalog/p/artificial-intelligence-a-modern-approach-global-edition/P200000005340/9781292409399)
-[Dan's Thoughts on AI eating Senior Engineers](https://www.nearform.com/blog/will-ai-eat-the-senior-engineer/)
-[Simon Willison on Benchmarking with GPT](https://simonwillison.net/2023/Apr/12/code-interpreter/)
+[Falcon LLM](https://falconllm.tii.ae/)  
+[Artificial Intelligence: A Modern Approach](https://www.pearson.com/en-gb/subject-catalog/p/artificial-intelligence-a-modern-approach-global-edition/P200000005340/9781292409399)  
+[Dan's Thoughts on AI eating Senior Engineers](https://www.nearform.com/blog/will-ai-eat-the-senior-engineer/)  
+[Simon Willison on Benchmarking with GPT](https://simonwillison.net/2023/Apr/12/code-interpreter/)  
 
 
 # This is the Everything Delivery podcast
