@@ -3,13 +3,15 @@ title: "Digital Pulse - 7 Jul 2023"
 date: 2023-07-07T08:30:00+00:00
 image: "/imgs/dp-episode-3.png"
 youtube: "WjgIu0hoKcM"
+tags: ["digitalpulse"]
 ---
 
 This week our three themes are:
 
-* [Data](#data)
-* [Platform](#platform)
-* [Cost](#cost-and-finops)
+- [Data](#data)
+- [Platform](#platform)
+- [Cost and FinOps](#cost-and-finops)
+- [Tech News](#tech-news)
 
 We also have an extra Tech News section!
 
