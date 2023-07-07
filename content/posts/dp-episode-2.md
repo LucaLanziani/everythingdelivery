@@ -2,7 +2,7 @@
 title: "Digital Pulse - 7 Jul 2023"
 date: 2023-07-07T08:30:00+00:00
 image: "/imgs/dp-episode-2.png"
-youtube: "XNHlkdccBck"
+youtube: "ZybpMnlyRnk"
 spotify: 4cCPpDK0j2dvwNjyAyJ1ls
 tags: ["digitalpulse"]
 ---
