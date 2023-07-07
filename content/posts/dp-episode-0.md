@@ -4,6 +4,8 @@ date: 2023-06-09T21:00:28+02:00
 img: "dp-episode-0.png"
 image: "/imgs/dp-episode-0.png"
 youtube: "uGF-lH1XqBc"
+spotify: 0EmSxvVvqPyOekUeYuH0Oc
+tags: ["digitalpulse"]
 ---
 
 Welcome to the first episode of Digital Pulse.

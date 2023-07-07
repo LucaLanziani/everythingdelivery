@@ -3,15 +3,17 @@ title: "Digital Pulse - 23 Jun 2023"
 date: 2023-06-23T08:30:00+00:00
 image: "/imgs/dp-episode-1.png"
 youtube: "DeTJvuN2HzU"
+spotify: 0Bb16SG0sUZtwYvgEcpd07
+tags: ["digitalpulse"]
 ---
 
 Welcome to Episode 1 of Digital Pulse
 
 This time out there are three themes:
 
-* [Back to the Office](#back-to-the-office)
-* [Ways of Working](#ways-of-working)
-* [Data and ML](#data-and-ml)
+- [Back to the Office](#back-to-the-office)
+- [Ways of Working](#ways-of-working)
+- [Data and ML](#data-and-ml)
 
 <!--more-->
 
