@@ -7,7 +7,7 @@ youtube: "qLEwiWvF5_w"
 
 Welcome to episode 5: It's Not Just Software!
 
-A short one this week, sub five minutes so you've got no excuse to not watch! Over the last few episodes we've done a load of talking, it's time to hand things over to our much smarter, better informed friends, who will talk to us about what and how to successfully deliver a project.
+A short one this week, sub five minutes so you've got no excuse to not watch! Over the last few episodes we've done a load of talking, it's time to hand things over to our much smarter, better informed friends, who will talk to us about what we need to successfully deliver projects.
 
 <!--more-->
 
