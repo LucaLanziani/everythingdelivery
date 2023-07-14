@@ -1,6 +1,6 @@
 ---
 title: "Episode 5 - What's up next, doc?"
-date: 2023-06-30T09:00:00+00:00
+date: 2023-07-14T09:00:00+00:00
 image: "/imgs/episode-5.png"
 youtube: "qLEwiWvF5_w"
 ---
