@@ -14,7 +14,7 @@ A short one this week, sub five minutes so you've got no excuse to not watch! Ov
 Stay tuned to hear us talk to the following wonderful people
 
 * Mr Shaun Anderson - Shaun created Swift, a methodology for making sure you understand how a system wants to behave and deliver the right outcomes for your clients.
-* Antonie - A friendly neighborhood designer, he's going disabuse us of the notion that design is just wire frames, it's actually crucial in ensuring a successful project
+* Antoine Marin - A friendly neighborhood designer, he's going disabuse us of the notion that design is just wire frames, it's actually crucial in ensuring a successful project
 * Anjanette Houser - PRODUCT, MLP, MVP. Why should you care?
 * Paula Paul - Open source? Inner source? Confused? Don't worry, Paul is going to walk us through it.
 * A special guest? All of them are special to us. Stay tune to find out what this is about at a later date!
