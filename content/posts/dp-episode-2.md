@@ -16,7 +16,7 @@ This week our three themes are:
 
 We also have an extra Tech News section!
 
-<!-- more -->
+<!--more-->
 
 ## Data
 In a shocking revelation LLMs are still relevant! We start out discussing that 3 is the magic number, more specifically [$1.3bn! Databricks splash](https://www.reuters.com/markets/deals/databricks-strikes-13-bln-deal-generative-ai-startup-mosaicml-2023-06-26/) a load of blue dollars on Mosaic while [Inflection manage to raise $1.3bn](https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/) and are valued at $4bn after a mere 1 year! The market value of AI at the end of 2022 was an [estimated $136.5bn](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market) with an estimated CAGR of 37.7% 2023-2030!
