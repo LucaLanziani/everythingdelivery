@@ -22,7 +22,10 @@ We finish up talking about how you can run Swift throughout a delivery programme
 You can find out more about Shaun and what we talked about in the following places:
 
 [Origin story of Swift](https://www.youtube.com/watch?v=7-fRtd8LUwA)   
-[The Swift Website](https://www.swiftbird.us/)
+[The Swift Website](https://www.swiftbird.us/)   
+[Event Sourcing](https://developer.ibm.com/articles/event-sourcing-introduction/)   
+[Event Sourcing - Pros and Cons](https://www.redhat.com/architect/pros-and-cons-event-sourcing-architecture-pattern)   
+[The 3 Ks of the Apocalypse](https://swiftbird.medium.com/the-3-ks-of-the-apocalypse-9c6cd990c8b4)   
 
 In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organization.
 
