@@ -21,7 +21,7 @@ We finish up talking about how you can run Swift throughout a delivery programme
 
 You can find out more about Shaun and what we talked about in the following places:
 
-[Origin story of Swift](https://www.youtube.com/watch?v=7-fRtd8LUwA)
+[Origin story of Swift](https://www.youtube.com/watch?v=7-fRtd8LUwA)   
 [The Swift Website](https://www.swiftbird.us/)
 
 In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organization.
