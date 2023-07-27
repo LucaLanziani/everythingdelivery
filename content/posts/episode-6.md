@@ -7,7 +7,7 @@ youtube: "3YIgGR09KhA"
 
 Welcome to episode 6: Swift and Moderisation.
 
-In this episode we talk with [Shaun Anderson](), creator of [Swift](https://www.swiftbird.us/the-swift-method) and the executor of many modernisations. 
+In this episode we talk with [Shaun Anderson](https://www.swiftbird.us/blog), creator of [Swift](https://www.swiftbird.us/the-swift-method) and the executor of many modernisations.
 
 <!-- more -->
 
