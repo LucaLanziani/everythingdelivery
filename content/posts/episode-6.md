@@ -1,5 +1,5 @@
 ---
-title: "Episode 6 - No Mr Anderson, tell us about Swift"
+title: "Episode 6 - Shaun Anderson, Swift and Modernisation"
 date: 2023-07-27T09:00:00+00:00
 image: "/imgs/episode-6.png"
 youtube: "3YIgGR09KhA"
