@@ -9,7 +9,7 @@ Welcome to episode 6: Swift and Moderisation.
 
 In this episode we talk with [Shaun Anderson](https://www.swiftbird.us/blog), creator of [Swift](https://www.swiftbird.us/the-swift-method) and the executor of many modernisations.
 
-<!-- more -->
+<!--more-->
 
 Stick with us to hear a discussion on what constitutes a “modern system” and how teams have overcome modernization barriers using the Swift Method.
 
