@@ -25,7 +25,7 @@ Anthropic, Google, Microsoft and OpenAI have announced an industry body to ensur
 
 [Put an AI on it!](https://www.theverge.com/2023/7/27/23810360/intel-pat-gelsinger-ai-every-platform-promise) - The CEO of Intel, Pat Gelsinger, has said they're going to put AI into every platform they build. I don't think this is a bad idea, perhaps not 100% sold. I do like the example of embedding AI in a hearing aid.
 
-[It's an AI bubble](https://www.zdnet.com/article/is-ai-the-biggest-bubble-of-all-time-stability-ai-ceo-thinks-so/)) or [maybe not](https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-bubble-hype-nvidia-1999-cisco-fundstrat-2023-7) - Two takes on the state of AI, the first that we're at the start of a massive AI bubble, swiftly followed a conflicting take. I'm not a financial advisor and have absolutely no reason to weigh in ... but I'm calling bubble.
+[It's an AI bubble](https://www.zdnet.com/article/is-ai-the-biggest-bubble-of-all-time-stability-ai-ceo-thinks-so/) or [maybe not](https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-bubble-hype-nvidia-1999-cisco-fundstrat-2023-7) - Two takes on the state of AI, the first that we're at the start of a massive AI bubble, swiftly followed a conflicting take. I'm not a financial advisor and have absolutely no reason to weigh in ... but I'm calling bubble.
 
 [McKinsey feat Cohere](https://txt.cohere.com/cohere-and-mckinsey/) - You've probably heard of the folks at McKinsey, the global consultancy firm, you may not be familiar with Cohere. Cohere is a Canadian company founded by former members of Google Brain and authors of ['Attention is All You Need'](https://arxiv.org/abs/1706.03762). Read the article to find out about the new strategic alliance.
 
