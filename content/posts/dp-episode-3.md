@@ -3,7 +3,7 @@ title: "Digital Pulse - 28 Jul 2023"
 date: 2023-07-28T08:30:00+00:00
 image: "/imgs/dp-episode-3.png"
 youtube: ijIO86-Ajwg
-spotify: ""
+spotify: "6R9DMUMdZF1Pg1lUvXKEiq"
 tags: ["digitalpulse"]
 ---
 
