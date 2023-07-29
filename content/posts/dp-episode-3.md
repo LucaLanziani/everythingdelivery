@@ -2,8 +2,8 @@
 title: "Digital Pulse - 28 Jul 2023"
 date: 2023-07-28T08:30:00+00:00
 image: "/imgs/dp-episode-3.png"
-youtube: "???"
-spotify: ???
+youtube: ijIO86-Ajwg
+spotify: ""
 tags: ["digitalpulse"]
 ---
 
@@ -20,17 +20,28 @@ Quick reminder: we're out for August because [Luca is going on Holiday, lucky hi
 
 [AWS Bedrock adds Agents](https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/) - Now your future overlord can reach out to the internet and display a sense of agency. Thanks Amazon.
 
+>Amazon Bedrock now supports agents, a new, fully managed capability, that enables generative AI applications to complete tasks in just a few clicks – based on organization data and user input without any manual code. Agents for Bedrock orchestrate interactions between FMs, data sources, software applications, and users and automatically execute APIs. Developers can easily integrate the agents and accelerate delivery of generative AI applications saving weeks of development effort.
+
 [OpenAI Frontier Model Forum](https://openai.com/blog/frontier-model-forum) - What better way to build a mote than make yourself the police ... who doesn't love mixed metaphores? 
 Anthropic, Google, Microsoft and OpenAI have announced an industry body to ensure safe and responsible development of frontier AI models - where's xAI in all this?
 
+> We're forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating information sharing among policymakers and industry.
+
 [Put an AI on it!](https://www.theverge.com/2023/7/27/23810360/intel-pat-gelsinger-ai-every-platform-promise) - The CEO of Intel, Pat Gelsinger, has said they're going to put AI into every platform they build. I don't think this is a bad idea, perhaps not 100% sold. I do like the example of embedding AI in a hearing aid.
 
+> “AI is going to be in every hearing aid in the future, including mine,” he said at a different point in the call. “Whether it’s a client, whether it’s an edge platform for retail and manufacturing and industrial use cases, whether it’s an enterprise data center, they’re not going to stand up a dedicated 10-megawatt farm.”
+
 [It's an AI bubble](https://www.zdnet.com/article/is-ai-the-biggest-bubble-of-all-time-stability-ai-ceo-thinks-so/) or [maybe not](https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-bubble-hype-nvidia-1999-cisco-fundstrat-2023-7) - Two takes on the state of AI, the first that we're at the start of a massive AI bubble, swiftly followed a conflicting take. I'm not a financial advisor and have absolutely no reason to weigh in ... but I'm calling bubble.
+
+> Ultimately, there's no real definition of a stock market bubble, according to Lee, and a lot of the meaning behind it is more of a psychological feeling for investors.
 
 [McKinsey feat Cohere](https://txt.cohere.com/cohere-and-mckinsey/) - You've probably heard of the folks at McKinsey, the global consultancy firm, you may not be familiar with Cohere. Cohere is a Canadian company founded by former members of Google Brain and authors of ['Attention is All You Need'](https://arxiv.org/abs/1706.03762). Read the article to find out about the new strategic alliance.
 
 [GPT4 is getting dumberer](https://www.theregister.com/2023/07/20/gpt4_chatgpt_performance/) - Otherwise put as the performance has been changing and perhaps the generated code isn't as good at it once was ... or maybe you're just imagining it. Just a friendly reminder, these things produce inaccurate results, do weird stuff - go ask Bard what 1 + 1 is.  
 
+> OpenAI does acknowledge on ChatGPT's website that the bot "may produce inaccurate information about people, places, or facts," a point quite a few people probably don't fully appreciate.
+
+ 
 [Ensure you don’t ship dud projects by overvaluing the importance of AI](https://thenewstack.io/what-generative-ai-means-for-product-strategy-and-how-to-evaluate-it/) - Even though, as established, generative AI is real and already here, there are probably loud voices from the top to the bottom of your own organization claiming that either you need AI in everything everywhere all at once or that you should be ignoring it because “it’s a distraction.”
 
 [I love Postgres, I love Citus](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/) - 
