@@ -44,6 +44,7 @@ Anthropic, Google, Microsoft and OpenAI have announced an industry body to ensur
  
 [Ensure you don’t ship dud projects by overvaluing the importance of AI](https://thenewstack.io/what-generative-ai-means-for-product-strategy-and-how-to-evaluate-it/) - Even though, as established, generative AI is real and already here, there are probably loud voices from the top to the bottom of your own organization claiming that either you need AI in everything everywhere all at once or that you should be ignoring it because “it’s a distraction.”
 
+
 [I love Postgres, I love Citus](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/) - 
 Shard your database across servers, where sharding occurs at the schema level, enjoy 
 - Multi-tenant SaaS applications
@@ -63,20 +64,26 @@ Only a fool would bet against Zuck and the Feta, right?
 
 [Celebrate sleeping in the office](https://twitter.com/esthercrawford/status/1684291048682684416?s=20) Esther Crawford is back, time to get back in the spotlight by talking about the weird shit that went down as Twitter lost staff and became an spectacle. We're not so sure there's stuff to celebrate here, seems like a TOXIC WORKPLACE. 
 
+Before Elon:
+
+>I was shocked by how old and bespoke the infrastructure was, but there was little will to think beyond quarterly earnings calls because we were all beholden to the masters of mDAU and revenue growth as a public company. It often felt like things were held together with duct tape and glue, and that many people had just accepted that a small product change could take months or quarters to build. Management had become bloated to accommodate career growth and the company culture felt too soft and entitled for my own taste. Healthy debate and criticism was replaced by a default refrain of “no, that can’t be done” or “another team owns that so don’t touch it”.
+
+After Elon:
+
+>In person Elon is oddly charming and he’s genuinely funny. He also has personality quirks like telling the same stories and jokes over and over. The challenge is his personality and demeanor can turn on a dime going from excited to angry. Since it was hard to read what mood he might be in and what his reaction would be to any given thing, people quickly became afraid of being called into meetings or having to share negative news with him.
+
+>I quickly learned that product and business decisions were nearly always the result of him following his gut instinct, and he didn’t seem compelled to seek out or rely on a lot of data or expertise to inform it. That was particularly frustrating for me since I believed I had useful institutional knowledge that could help him make better decisions. Instead he'd poll Twitter, ask a friend, or even ask his biographer for product advice. At times it seemed he trusted random feedback more than the people in the room who spent their lives dedicated to tackling the problem at hand.
+
+
 [DHH spits the truth on hiring](https://world.hey.com/dhh/pick-promise-over-proof-756604d3)
 
 [GitLab’s first ESG and DIB reports](https://about.gitlab.com/blog/2023/07/26/gitlab-first-esg-and-dib-reports/) - Check it out. We are fans of the GitLab.
 
-[Ford CEO talks about software](https://www.youtube.com/watch?v=8IhSWsQlaG8) - There's a reason the software in your car sucks, the makers know it, some of them are starting to do something about it. An interesting take on the state of software and perhaps warning notes if you've read the statement from Intel about embedding AI in everything.
+[Ford CEO talks about software](https://youtu.be/8IhSWsQlaG8?t=1513) - There's a reason the software in your car sucks, the makers know it, some of them are starting to do something about it. An interesting take on the state of software and perhaps warning notes if you've read the statement from Intel about embedding AI in everything.
 
 [4 day week, Luca wants 3](https://www.businessinsider.com/four-day-workweek-companies-profits-workers-happier-efficient-takano-2023-7?r=US&IR=T) - The stats are in, 4 day week is more productive, people are happier and businesses make money. Shouldn't we all be happy?
 
 Bonus link - [ Provocative Predictions for the Future of Tech with NYU Marketing Professor Scott Galloway ](https://www.youtube.com/watch?v=otyoPiVAicI&t=2500s). Inspiring and sad. Watch this talk, even if the data is perhaps cherry-picked.
-
-
-
-
-
 
 You can find this podcast on:
 
