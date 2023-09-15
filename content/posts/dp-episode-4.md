@@ -7,11 +7,7 @@ spotify: "2jswcubPoCvdD2WVSj473w"
 tags: ["digitalpulse"]
 ---
 
-This week our three items:
-
-1. We're back, the summer is over, one of us had a better time that the other and it wasn't Dan! 
-2. OpenTF, turn your back and something changes. The moment we went away Hashicorp opted to change the license for Terraform. The community didn't react kindly and forked the project - Enter OpenTF
-3. It wouldn't been a week without a new something in Generative AI. Guess what, it's another model!
+Welcome back! Short and unscripted, we're talking OpenTF and Generative AI!
 
 <!--more-->
 
