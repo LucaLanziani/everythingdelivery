@@ -13,12 +13,13 @@ This week our three items:
 2. OpenTF, turn your back and something changes. The moment we went away Hashicorp opted to change the license for Terraform. The community didn't react kindly and forked the project - Enter OpenTF
 3. It wouldn't been a week without a new something in Generative AI. Guess what, it's another model!
 
+<!--more-->
+
 - [OpenTF](#Terrorform)
 - [How do you manage a happy organisation?](#HappyOrg)
 
 Quick reminder: we're out for August because [Luca is going on Holiday, lucky him](https://www.youtube.com/watch?v=Bxauqa7rJgI). We're also changing the format: shorter runtime, more details in the footnotes and a follow-up newsletter. Why on earth don't you want to listen to us or see us? We're lovely in person and on Zoom! 
 
-<!--more-->
 
 ## Terrorform
 You can read the [Hasihcorp justificaiton](https://www.hashicorp.com/license-faq#why-is-hashicorp-making-this-change) and more about the [fork](https://opentf.org/fork) and general [opentf manifesto](https://opentf.org/). If you want to start contributing, move what you have over to the new world of OpenTF go visit the [repo](https://github.com/opentffoundation/opentf).
