@@ -1,6 +1,6 @@
 ---
 title: "Digital Pulse -  15th Sept 2023"
-date: 2023-09-158T08:30:00+00:00
+date: 2023-09-15T08:30:00+00:00
 image: "/imgs/dp-episode-4.png"
 youtube: XddykeFmCEU
 spotify: "2jswcubPoCvdD2WVSj473w"
