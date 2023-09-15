@@ -11,16 +11,13 @@ Welcome back! Short and unscripted, we're talking OpenTF and Generative AI!
 
 <!--more-->
 
-- [OpenTF](#Terrorform)
-- [How do you manage a happy organisation?](#HappyOrg)
-
-Quick reminder: we're out for August because [Luca is going on Holiday, lucky him](https://www.youtube.com/watch?v=Bxauqa7rJgI). We're also changing the format: shorter runtime, more details in the footnotes and a follow-up newsletter. Why on earth don't you want to listen to us or see us? We're lovely in person and on Zoom! 
-
 
 ## Terrorform
+
 You can read the [Hasihcorp justificaiton](https://www.hashicorp.com/license-faq#why-is-hashicorp-making-this-change) and more about the [fork](https://opentf.org/fork) and general [opentf manifesto](https://opentf.org/). If you want to start contributing, move what you have over to the new world of OpenTF go visit the [repo](https://github.com/opentffoundation/opentf).
 
 ## AI
+
 [Sccccrrreeeeeech](https://www.youtube.com/watch?v=O7iyvOQ4gac), the Falcon has landed. Another week brings another foundation model. The folks at the [Technology Innovation Institute](https://falconllm.tii.ae/index.html) have released [Falcon 180B](https://falconllm.tii.ae/falcon-180b.html).
 
 You can go see the [huggingface blog](https://huggingface.co/blog/falcon-180b) for further details.
