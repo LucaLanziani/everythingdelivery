@@ -2,7 +2,7 @@
 title: "Digital Pulse -  20th Oct 2023"
 date: 2023-10-20T08:30:00+00:00
 image: "/imgs/dp-episode-5.png"
-youtube: WSkEj2EqGWk
+youtube: NGZ2yBGQ4OA
 spotify: "0HS8LF0IQBSFeWG-FanClQ"
 tags: ["digitalpulse"]
 ---
