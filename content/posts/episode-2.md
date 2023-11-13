@@ -3,7 +3,7 @@ title: "Episode 2 - Open Telemetry"
 date: 2023-05-24T18:00:28+02:00
 img: "episode-2.jpg"
 image: "/imgs/episode-2.jpg"
-youtube: "nelk5xdO39Y"
+youtube: "BRglYegZ-bo"
 ---
 
 In the previous episode, we delved deep into the intricate and important topic of Observability.
@@ -35,5 +35,5 @@ The second was our take on FinOps: https://www.nearform.com/blog/is-finops-reall
 In this podcast we will discuss anything and everything that helps deliver value to clients while maintaining a healthy and happy Organization.
 
 You can find this podcast on:
-Spotify: https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ
-Apple podcast: https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en
+Spotify: https://open.spotify.com/show/0hDIMNruStpK9aE9eHC7NZ  
+Apple podcast: https://podcasts.apple.com/it/podcast/everything-delivery/id1680879029?l=en  
